@@ -1,0 +1,28 @@
+*{
+    font-family: 'Inconsolata', monospace;
+}
+
+main{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding-inline-start: 0;
+}
+nav ul li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+   color: blue;
+}
+h1{
+    text-align: center;
+}
